@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_unit2">Unit2</string>
+    <string name="title_activity_event_handling_test">EventHandlingTest</string>
+    <string name="centerButton_Text">Click me</string>
+    <string name="centerText_Text">Some text</string>
 </resources>

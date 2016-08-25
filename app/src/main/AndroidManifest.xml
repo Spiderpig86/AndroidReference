@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".GridLayoutTest"
+            android:label="@string/title_activity_unit2" >
+        </activity>
+        <activity
+            android:name=".EventHandlingTest"
+            android:label="@string/title_activity_event_handling_test" >
+        </activity>
     </application>
 
 </manifest>
